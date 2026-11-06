@@ -1,0 +1,2 @@
+SECONDMATE_LIVENESS: secondmate labmate: skipped: recorded harness 'agy' is unverified for recovery (backend=tmux)
+SECONDMATE_SYNC: secondmate labmate: skipped: primary default-branch commit cannot be resolved

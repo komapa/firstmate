@@ -1,0 +1,4 @@
+SECONDMATE_LIVENESS: secondmate labgem: skipped: recorded harness 'gemini' is unverified for recovery (backend=tmux)
+SECONDMATE_SYNC: secondmate labcur: skipped: primary default-branch commit cannot be resolved
+SECONDMATE_SYNC: secondmate labgem: skipped: primary default-branch commit cannot be resolved
+SECONDMATE_SYNC: secondmate labmate: skipped: primary default-branch commit cannot be resolved

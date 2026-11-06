@@ -1,0 +1,39 @@
+=== tmux panes after recovery (lab private socket) ===
+firstmate:main pane_current_command=bash
+firstmate:fm-labmate pane_current_command=agy
+firstmate:fm-labcur pane_current_command=cursor-agent
+firstmate:fm-labgem pane_current_command=bash
+
+=== relaunch ledgers ===
+-- .secondmate-relaunch-labcur
+1793981825	attempt
+1793981829	relaunched
+1793981834	attempt
+1793981838	relaunched
+-- .secondmate-relaunch-labmate
+1793981750	attempt
+1793981755	relaunched
+1793981777	attempt
+1793981782	relaunched
+1793981790	attempt
+1793981795	relaunched
+
+=== agy mate pane scrollback tail (live agy process after automatic recovery) ===
+▸ Thought for 8s, 834 tokens
+
+  Captain, session start and state reconciliation are complete. The lab queue is empty and all stations are shipshape; idling silently on deck for routed work from the main firstmate.
+
+ How's the CLI experience so far? Help us improve:
+ [1] Good  [2] Fine  [3] Bad  [0] Skip
+
+● READY · Gemini 3.8 Flash (High) · ctx ▒·············· 4.7% · artifacts 0 · subagents 0 · tasks 0 · sandbox off
+
+=== cursor mate pane scrollback tail (live cursor-agent after automatic recovery) ===
+
+
+
+
+
+
+
+
