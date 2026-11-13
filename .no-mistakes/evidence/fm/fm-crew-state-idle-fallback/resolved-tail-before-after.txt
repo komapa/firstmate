@@ -1,0 +1,6 @@
+== AFTER (target commit) ==
+ok - a trailing resolved: event does not corrupt state render (idle stays idle)
+== BEFORE (base script, same new test) ==
+not ok - decision-closing tail reads unknown with a distinguishing detail, no idle token (missing: 'state: unknown · source: none · newest status event is decision-closing; no current-state source')
+--- output ---
+state: unknown · source: none · no current-state source available
